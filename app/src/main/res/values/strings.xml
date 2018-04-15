@@ -1,3 +1,35 @@
 <resources>
-    <string name="app_name">tarea_labo4</string>
+    <string name="app_name">Solar System</string>
+    <string-array name="sistema">
+        <item>@string/sun_name</item>
+        <item>@string/mercury_name</item>
+        <item>@string/venus_name</item>
+        <item>@string/earth_name</item>
+        <item>@string/mars_name</item>
+        <item>@string/jupiter_name</item>
+        <item>@string/saturn_name</item>
+        <item>@string/uranus_name</item>
+        <item>@string/neptune_name</item>
+    </string-array>
+
+    <string name="Sun">The Sun (from the Latin sun, solis, in turn from the proto-Indo-European root to shine) is a G-type star of the main sequence and luminosity class V that is at the center of the solar system and constitutes the largest source of electromagnetic radiation of this planetary system. It is an almost perfect sphere of plasma, with an internal convective movement that generates a magnetic field through a dynamo process. About three-quarters of the Sun's mass consists of hydrogen; the rest is mainly helium, with much smaller amounts of elements, including oxygen, carbon, neon and iron.</string>
+    <string name="Mercury">The planet Mercury is the closest to the Sun and is also the smallest of the planets, and is named after the Roman God. Who was the Roman god of trade, thieves, and travel, as well as the Greek god Hermes, the messenger of the Gods, who is sometimes depicted wearing winged sandals.Mercury orbits the Sun roughly once every 87.970 Earth days, and rotates once every 58.647 Earth days. The Suns rays are approximately seven times stronger on Mercury than they are on Earth.During the exploration of our Solar System, Mercury has been visited by two space probes Mariner 10 and Messenger.</string>
+    <string name="Earth">The Earth is the third planet from the Sun, it is the fifth largest planet of the eight planets in our Solar System, Earth is 93 million miles from the Sun.The planet Earth is home to millions of species, which includes us humans, and Earth was formed around 4.54 billion years ago, although life did not appear on the planet until 1 billion years ago.</string>
+    <string name="Mars">Mars is the fourth planet from the Sun and often described as the Red Planet, and is currently the only planet who’s surface can be viewed in detail from Earth. Around 4 billion years ago Mars has a molten core just like the Earth and was originally formed by the same process as the Earth.Mars orbits the Sun every 687 Earth days and a Martian day is around 30 minutes longer than that of Earth’s. During Mars’s Winter temperature on the Red Planet can drop as low as -88 °C. Earth is approximately 9 times bigger than Mars.</string>
+    <string name="Jupiter">Jupiter is the fifth planet from the Sun and is the biggest planet within our Solar System, and is the first of the Gas Giants, in line from the Sun.Jupiter together with Saturn, Uranus and Neptune, the other Gas Giants are sometimes referred to as the Jovian or outer planets. The Roman’s named the planet after the Roman God Jupiter or Jove, the God of sky and thunder, the king of the gods, in ancient Roman religion and myth.</string>
+    <string name="Saturn">The planet Saturn is the sixth planet from the Sun, and has a radius that is 9 times larger that our Earth. The Gas Giant Jupiter has 62 known moons orbiting the planet and winds on its surface can reach speeds of up to 1,100 mph. Only Neptune has faster winds on its surface, reaching 1,300 mph.Even though Saturn is classed as a Gas Giant Planet the planets not made up entirely of gasses. Its thought that Saturn’s core is rocky and consists of iron, nickel and rock made up of silicon and oxygen compounds, which is then surrounded by a thick layer of metallic hydrogen, together with an intermediate layer of liquid hydrogen and liquid helium, finished by an outer gaseous layer</string>
+    <string name="Uranus">Uranus is the seventh planet from the Sun and the third Gas Giant, and is currently the fourth largest planet in our Solar System, and has been named after the Greek God of the sky Uranus. The the father of Cronus of the planet Saturn and grandfather of Zeus of the planet Jupiter.Uranus orbits around the Sun once every 84 Earth years, and as with Venus, Uranus is the only other planet to rotate from east to west on its axis. The Atmosphere on the planet is made up of 83 percent hydrogen, 15 percent helium and 2 percent methane.Unlike the other planets it spins on its side at a 97 degree angle. Its thought that a huge collision changed the planetary rotation pushing the planet into the position it now spins.</string>
+    <string name="Neptune">Neptune is the 8th planet in our Solar System and the furthest from the Sun, being some 2,798,310,157 miles from the Sun. This was the first planet to be found using mathematics rather than observation techniques. Neptune is the fourth-largest planet by diameter and the third-largest by mass.Neptune as with Uranus is an Gas Giant and also an Ice Giant, and has 12 known moons orbiting it, and the planet orbits the Sun every 165 Earth years and has been named after the Roman god of the sea</string>
+    <string name="Venus">Venus is the second planet from the Sun and orbits the Sun every 224.7 Earth days. Venus is known as Earth’s Twin sister due to its similar size, and proximity to each other. It has a diameter of 7,520 miles is just 400 miles smaller than that of Earth. The planet has been named after the Roman goddess of love and Beauty, and after the Earth’s Moon is the brightest natural object in the night Sky.</string>
+    <string name="sun_name">Sun</string>
+    <string name="mercury_name">Mercury</string>
+    <string name="venus_name">Venus</string>
+    <string name="earth_name">Earth</string>
+    <string name="jupiter_name">Jupiter</string>
+    <string name="mars_name">Mars</string>
+    <string name="saturn_name">Saturn</string>
+    <string name="uranus_name">Uranus</string>
+    <string name="neptune_name">Neptune</string>
+    <string name="select_a_planet">Select a planet</string>
+
 </resources>
